@@ -9,7 +9,7 @@ To clone this project, follow the instructions below
 - Install Typescript globally:
   > npm install -g typescript
 - Clone the repository
-  > git clone https://github.com/JulianGarzon22/UNShop.git
+  > git clone https://github.com/Daniel-Developer-p/Shop
 - Open a terminal inside the folder and run
   > npm install
 - Then, run one of the following commands. Take a look on _package.json_ to see what they actually do
